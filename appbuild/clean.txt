@@ -7,7 +7,6 @@ Obx
 Sql
 Xhtml
 Empty.odc
-Tour.odc
 README.txt
 BlackBox.exe.manifest
 

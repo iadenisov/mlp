@@ -7,7 +7,6 @@ Obx
 Sql
 Xhtml
 Empty.odc
-README.txt
 clean
 BlackBox.exe.manifest
 BlackBox.exe

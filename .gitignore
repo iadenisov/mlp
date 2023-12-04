@@ -1,5 +1,10 @@
 *~
 Code
 Sym
+*.ocf
+*.osf
 Data
 *exe
+odc*
+MLP.res
+MLP.rc

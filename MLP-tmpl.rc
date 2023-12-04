@@ -1,6 +1,6 @@
 VS_VERSION_INFO VERSIONINFO
-FILEVERSION {#VERSION}
-PRODUCTVERSION {#VERSION}
+FILEVERSION 0,1,0,BUILDNUM
+PRODUCTVERSION 0,1,0,BUILDNUM
 FILEFLAGSMASK 0x3fL
 FILEFLAGS 0x8L
 FILEOS 0x40004L
@@ -12,16 +12,16 @@ BEGIN
 BLOCK "040904b0"
 BEGIN
 VALUE "Comments", "\0"
-VALUE "CompanyName", "MOLPIT\0"
+VALUE "CompanyName", "Ivan Denisov\0"
 VALUE "FileDescription", "Multylayer Perceptron\0"
-VALUE "FileVersion", "{#VERSION}\0"
+VALUE "FileVersion", "0,1,0,BUILDNUM\0"
 VALUE "InternalName", "Arrowheads\0"
-VALUE "LegalCopyright", "Copyright (c) 2015 Ivan Denisov, MOLPIT.\0"
+VALUE "LegalCopyright", "Copyright (c) 2015-2023 Ivan Denisov\0"
 VALUE "LegalTrademarks", "\0"
 VALUE "OriginalFilename", "MLP.exe\0"
 VALUE "PrivateBuild", "1\0"
 VALUE "ProductName", "Multylayer Perceptron\0"
-VALUE "ProductVersion", "{#VERSION}\0"
+VALUE "ProductVersion", "0,1,0,BUILDNUM\0"
 VALUE "SpecialBuild", "002\0"
 END
 END

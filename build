@@ -1,0 +1,6 @@
+
+
+sed s/BUILDNUM/`cat buildNum`/ < MLP-tmpl.rc > MLP.rc
+./i586-mingw32msvc-windres -i MLP.rc -o MLP.res
+
+

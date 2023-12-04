@@ -7,7 +7,7 @@ Download: https://github.com/iadenisov/mlp/releases
 
 To build from sources:
 * download BlackBox 2.0 MDI
-* open Net/Docu/Build-Tool.odc for further instrustions
+* open Net/Docu/Build-Tool.odc for further instructions
 
 Project: https://molpit.org/page/56 
 
